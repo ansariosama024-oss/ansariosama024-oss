@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohammad Osama</h1>
+<div align="center">
 
-<h3 align="center">
-  BTech CSE Student | Full Stack Developer | DSA Enthusiast
-</h3>
+<h1>Hi 👋, I'm Osama Ansari</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Real-World+Web+Applications;Learning+Data+Structures+%26+Algorithms;Always+Learning+New+Technologies" alt="Typing SVG" />
+<h3>Full Stack Developer • CSE Student • DSA Learner</h3>
+
+<p>
+Building scalable web applications and continuously improving my
+problem-solving skills.
 </p>
+
+</div>
 
 ## 👨‍💻 About Me
 
