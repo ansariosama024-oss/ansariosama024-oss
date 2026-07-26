@@ -50,3 +50,47 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+## 🚀 Featured Projects
+
+### 📊 ProjectFlow — Project Management Tool
+
+A full-stack project management application designed to help teams organize projects, manage tasks, track progress, and collaborate efficiently.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
+
+**Key Features:**
+- 🔐 Secure authentication using JWT
+- 📁 Create, update and manage projects
+- ✅ Task management and progress tracking
+- 👥 Team management
+- 📊 Interactive dashboard and analytics
+- 🌙 Modern responsive UI with Dark/Light mode
+- 🔗 REST API integration
+
+<p>
+  <a href="YOUR_PROJECTFLOW_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🤖 AI Resume Builder
+
+An intelligent resume-building application that helps students create professional resumes through a simple and interactive interface.
+
+**Tech Stack:** React • Django • Python • MySQL
+
+**Key Features:**
+- 📄 Generate professional resumes
+- 🎨 Multiple resume templates
+- 💡 Skill suggestions
+- 📥 Resume PDF generation
+- 👨‍💼 Admin dashboard
+
+<p>
+  <a href="YOUR_RESUME_BUILDER_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
