@@ -18,3 +18,35 @@
 - 🌱 Exploring backend development, APIs and modern web technologies
 - 🎯 Focused on strengthening problem-solving and development skills
 - 🤝 Open to internships, collaborations and software development opportunities
+
+## 🛠️ Tech Stack & Tools
+
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+<h3>🌐 Frontend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
+
+<h3>⚙️ Backend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+<h3>🗄️ Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3>🔧 Tools & Platforms</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
