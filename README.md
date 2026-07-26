@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Osama Ansari</h1>
+<h1>Hi 👋, I'm Mohammad Osama</h1>
 
 <h3>Full Stack Developer • CSE Student • DSA Learner</h3>
 
