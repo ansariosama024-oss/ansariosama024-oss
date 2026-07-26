@@ -112,3 +112,23 @@ An intelligent resume-building application that helps students create profession
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansariosama024-oss&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+
+## 🧠 DSA & LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/ansariosama024/">
+    <img src="https://leetcard.jacoblin.cool/ansariosama024?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ansariosama024/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  💻 Solving Data Structures & Algorithms problems using <b>C++</b>
+  <br/>
+  🎯 Focused on Arrays, Strings, Hashing, Two Pointers, Binary Search and more
+</p>
