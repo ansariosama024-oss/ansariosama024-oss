@@ -138,3 +138,35 @@ An intelligent resume-building application that helps students create profession
   <img src="https://raw.githubusercontent.com/ansariosama024-oss/ansariosama024-oss-/refs/heads/gh-pages/github-contribution-grid-snake.svg"
        alt="GitHub Contribution Snake" />
 </p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mohammad-osama305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/ansariosama024/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="mailto:ansariosama024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+<br>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ansariosama024-oss&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
