@@ -110,6 +110,12 @@ An intelligent resume-building application that helps students create profession
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansariosama024-oss&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansariosama024-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
