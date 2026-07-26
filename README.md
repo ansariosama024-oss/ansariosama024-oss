@@ -105,12 +105,6 @@ An intelligent resume-building application that helps students create profession
        alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansariosama024-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
 ## 📈 Contribution Activity
 
 <p align="center">
