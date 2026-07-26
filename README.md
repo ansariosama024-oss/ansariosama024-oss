@@ -132,9 +132,9 @@ An intelligent resume-building application that helps students create profession
   <br/>
   🎯 Focused on Arrays, Strings, Hashing, Two Pointers, Binary Search and more
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansariosama024-oss/ansariosama024-oss/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ansariosama024-oss/ansariosama024-oss-/refs/heads/gh-pages/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake" />
 </p>
